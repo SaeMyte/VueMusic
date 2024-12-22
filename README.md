@@ -1,5 +1,7 @@
 # 基于vue3的音乐播放器
 
+该项目参考[vue3-music](https://github.com/SmallRuralDog/vue3-music?tab=readme-ov-file)完成
+
 ## 1. 最外层的体验界面
 
 ![img.png](img.png)

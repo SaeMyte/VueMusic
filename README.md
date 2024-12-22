@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# 基于vue3的音乐播放器
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 1. 最外层的体验界面
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+![img.png](img.png)
+
+1. 放置资源，放入到src/assets界面
+2. 写这个界面，对应Host.vue文件
+   2.1 安装element-plus
+
+```angular2html
+npm install element-plus --save
+```
